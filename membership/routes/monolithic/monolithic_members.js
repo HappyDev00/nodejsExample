@@ -26,7 +26,7 @@ exports.onRequest = function (res, method, pathname, params, cb) {
 }
 
 /**
- * 회원 등록 기능
+ * 회원 등록 기능추가
  * @param method    메서드
  * @param pathname  URI
  * @param params    입력 파라미터
