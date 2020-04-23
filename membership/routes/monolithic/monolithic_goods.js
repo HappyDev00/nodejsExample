@@ -9,7 +9,7 @@ const conn = {
 };
 
 /**
- * 상품 관리의 각 기능별로 분기 분기
+ * 상품 관리의 각 기능별로 분기 분기22222
 */
 exports.onRequest = function (res, method, pathname, params, cb) {
 
